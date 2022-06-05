@@ -3,7 +3,7 @@ let userName =''
 userName? console.log(`Hello!, ${userName} Please ask the eight ball your question`)
 : console.log(`Hello! Please ask the eight ball your question`);
 
-const userQuestion ='will I win the lottery';
+const userQuestion ='Please insert your question.';
 
 console.log(`${userQuestion}`);
 
